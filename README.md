@@ -30,5 +30,5 @@ Made in Kicad.
 
 
 # PCB:
-<img width="571" height="559" alt="Screenshot 2026-08-20 213342" src="https://github.com/user-attachments/assets/cfc33e5b-8689-49e0-afce-5a4075549627" />
+<img width="1917" height="1198" alt="Screenshot 2026-08-24 173521" src="https://github.com/user-attachments/assets/5d0a8904-13ea-4340-847a-4a8b8c5f2273" />
 
