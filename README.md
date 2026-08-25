@@ -26,7 +26,8 @@ Pretty straight forward, cut out for USB, sleek design, and held together with 4
 
 # Schematics:
 Made in Kicad.
-<img width="1116" height="469" alt="Screenshot 2026-08-20 213358" src="https://github.com/user-attachments/assets/db4db906-9875-475f-8b84-dc3ab8e45758" />
+<img width="1149" height="514" alt="Screenshot 2026-08-21 181049" src="https://github.com/user-attachments/assets/8461ba16-0197-4b27-af03-f25b20d77566" />
+
 
 # PCB:
 <img width="571" height="559" alt="Screenshot 2026-08-20 213342" src="https://github.com/user-attachments/assets/cfc33e5b-8689-49e0-afce-5a4075549627" />
