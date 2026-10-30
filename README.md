@@ -33,6 +33,6 @@ Made in Kicad, actually my first time making a PCB in Kicad!
 
 
 # PCB:
-Weird dimensions ... whatever.
+Cool, pretty good for first try, didn't mess up at all. Just weird dimensions. 
 <img width="1917" height="1198" alt="Screenshot 2026-08-24 173521" src="https://github.com/user-attachments/assets/5d0a8904-13ea-4340-847a-4a8b8c5f2273" />
 
