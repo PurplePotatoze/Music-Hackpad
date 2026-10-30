@@ -1,4 +1,5 @@
-<img width="1162" height="827" alt="Screenshot 2026-08-20 213713" src="https://github.com/user-attachments/assets/b4d41a43-000d-4882-b33f-2644a13a0e23" />
+<img width="4032" height="3024" alt="IMG_9052" src="https://github.com/user-attachments/assets/a7bef08b-70e7-4c73-b79d-a09c5ff3fa23" />
+
 
 # Music-Hackpad
 
